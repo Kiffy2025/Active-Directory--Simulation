@@ -5,7 +5,7 @@ This project is the deployment of a Windows Server Domain Controller (Active Dir
 
 ---
 
-## Company Structure
+## Company Overview/ Operating System
 
 **KIFKIM Corprate Service** is a small Management consultancy activities other than financial management. The following are it's structure:
 
